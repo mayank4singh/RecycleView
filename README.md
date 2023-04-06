@@ -11,7 +11,7 @@ Interface|Attempt|Result
 :-----:|:-------------------------------:|:-----------:|
 ![rem1](https://user-images.githubusercontent.com/117936126/230322023-a7d9a86a-ab9d-4985-83d6-d5f8b2f6c829.jpg)|![rem2](https://user-images.githubusercontent.com/117936126/230322112-9d1089d2-ce73-41a8-8198-89b8e6800af9.jpg)|![rem3](https://user-images.githubusercontent.com/117936126/230322153-8fe37cbe-b6ce-4aca-9673-945d62a23cd8.jpg)
 
-## A demonstration of the app is shown here. 
+## A demonstration of the app is shown here:
 
 https://user-images.githubusercontent.com/117936126/230317700-4be59dc3-b464-461b-b861-deeb8e2b0827.mp4
 
