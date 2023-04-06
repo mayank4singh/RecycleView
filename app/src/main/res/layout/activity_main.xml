@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#D3481C"
+        android:padding="4dp"
+        android:scrollbars="vertical" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:orientation="horizontal"
+        android:background="#0EAAF1">
+
+        <EditText
+            android:id="@+id/editadd"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/amita"
+            android:hint="number"
+            android:inputType="number"
+            android:textSize="15sp"
+            android:textStyle="bold"></EditText>
+
+        <Button
+            android:id="@+id/btnins"
+            android:layout_width="26dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="#1DAE23"
+            android:fontFamily="@font/cambo"
+            android:text="Insert"
+            android:textStyle="bold"></Button>
+
+        <EditText
+            android:id="@+id/editdel"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/amita"
+            android:hint="number"
+            android:inputType="number"
+            android:textSize="15sp"
+            android:textStyle="bold"></EditText>
+
+        <Button
+            android:id="@+id/btnRem"
+            android:layout_width="16dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="#E11010"
+            android:fontFamily="@font/cambo"
+            android:text="Remove"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
