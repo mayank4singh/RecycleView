@@ -3,7 +3,7 @@
 ## Preview
 ### A Card View is Added
 Interface|Attempt|Result
-:-----:|:-------------------------------:|:--------:
+:-----:|:-------------------------------:|:------:
 ![add1](https://user-images.githubusercontent.com/117936126/230320555-97ae791e-9bbb-452a-b06e-1315edc76bf3.jpg)|![add2](https://user-images.githubusercontent.com/117936126/230320603-e2569de6-14b5-48fc-a9e3-698afd7c960d.jpg)|![add3](https://user-images.githubusercontent.com/117936126/230320621-4dfa3493-67b2-4122-bfbb-160bce5ff540.jpg)
 
 ### A Card View is Removed
